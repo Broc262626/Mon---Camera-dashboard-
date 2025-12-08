@@ -1,0 +1,1 @@
+Final deploy-ready Camera Repair Dashboard. Run: pip install -r requirements.txt && streamlit run app.py
