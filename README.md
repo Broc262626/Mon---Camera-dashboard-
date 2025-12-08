@@ -1,0 +1,1 @@
+Styled deploy-ready Camera Repair Dashboard (dark theme, improved palette). Run: pip install -r requirements.txt && streamlit run app.py
